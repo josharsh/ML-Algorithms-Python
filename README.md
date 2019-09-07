@@ -1,2 +1,3 @@
-# ML_Python
-Includes Machine Learning algorithm's using Python!
+# ML-Algorithms-Python
+This repository contains implmentation of machine learning algorithms in python. 
+
